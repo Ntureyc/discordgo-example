@@ -1,4 +1,4 @@
-module github.com/CodingWithShopno/discordgo-example
+module github.com/SaurabhCoderr/discordgo-example
 
 go 1.16
 
