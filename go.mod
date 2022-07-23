@@ -1,4 +1,4 @@
-module github.com/railwayapp/starters/examples/discordgo
+module github.com/CodingWithShopno/discordgo-example
 
 go 1.16
 
